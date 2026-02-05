@@ -92,7 +92,7 @@ DATABASES = {
         'ENGINE': 'mssql',
         'NAME': 'praravee-sql-db',
         'USER': 'praravee-admin',
-        'PASSWORD': 'wwaa_6474',
+        'PASSWORD': 'Wwaa_6747',
         'HOST': 'praravee-sql-server.database.windows.net',
         'PORT': '1433',
         'OPTIONS': {
