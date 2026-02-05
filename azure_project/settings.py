@@ -90,16 +90,17 @@ WSGI_APPLICATION = 'azure_project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'mssql',
-        'NAME': 'bearlab-sql-db',
-        'USER': 'bearlab-admin',
-        'PASSWORD': 'P@ss1234',
-        'HOST': 'bearlab-sql-server.database.windows.net',
+        'NAME': 'praravee-sql-db',
+        'USER': 'praravee-admin',
+        'PASSWORD': 'Wwaa_6474',
+        'HOST': 'praravee-sql-server.database.windows.net',
         'PORT': '1433',
         'OPTIONS': {
             'driver': 'ODBC Driver 18 for SQL Server',
         },
     },
 }
+
 
 
 import urllib.parse
